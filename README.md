@@ -36,7 +36,6 @@
         <li>htop</li>
         <li>micro</li>
         <li>neofetch</li>
-        <li>polybar</li>
         <li>python3-pip</li>
         <li>stress</li>
         <li>tree</li>
@@ -45,6 +44,12 @@
     <li>pip (<code>pip list --user</code>)</li>
       <ul>
         <li>Pygments (for colorize omz plugin)</li>
+      </ul>
+    <li>git</li>
+      <ul>
+        <li>alacritty</li>
+        <li>polybar</li>
+        <li>powerlevel10k</li>
       </ul>
   </ul>
 </details>
