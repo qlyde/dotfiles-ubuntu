@@ -51,5 +51,9 @@
         <li>polybar</li>
         <li>powerlevel10k</li>
       </ul>
+    <li>web</li>
+      <ul>
+        <li>rustup</li>
+      </ul>
   </ul>
 </details>
