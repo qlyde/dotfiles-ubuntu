@@ -12,7 +12,6 @@
     * OpenWeather
     * Places Status Indicator
     * Refresh Wifi Connections
-    * Simple System Monitor
     * Vitals
 * **Terminal Emulator:** alacritty
   * *[Theme](https://github.com/eendroroy/alacritty-theme):* gruvbox_dark
