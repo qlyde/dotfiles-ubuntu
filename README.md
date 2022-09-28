@@ -7,6 +7,7 @@
     * [Alphabetical App Grid](https://github.com/stuarthayhurst/alphabetical-grid-extension)
     * Applications Menu
     * [Favourites in AppGrid](https://gitlab.gnome.org/harshadgavali/favourites-in-appgrid/)
+    * Internet Radio
     * Net speed Simplified
     * No activities button
     * OpenWeather
@@ -28,6 +29,7 @@
         <li>cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3 (alacritty deps)</li>
         <li>build-essential git cmake cmake-data pkg-config python3-sphinx python3-packaging libuv1-dev libcairo2-dev libxcb1-dev libxcb-util0-dev libxcb-randr0-dev libxcb-composite0-dev python3-xcbgen xcb-proto libxcb-image0-dev libxcb-ewmh-dev libxcb-icccm4-dev (polybar deps)</li>
         <li>libxcb-xkb-dev libxcb-xrm-dev libxcb-cursor-dev libasound2-dev libpulse-dev i3-wm libjsoncpp-dev libmpdclient-dev libcurl4-openssl-dev libnl-genl-3-dev (polybar optional deps)</li>
+        <li>gir1.2-gst-plugins-bad-1.0 gir1.2-gst-plugins-base-1.0 gstreamer1.0-plugins-ugly gstreamer1.0-plugins-bad (Internet Radio deps)</li>
         <li>gir1.2-gtop-2.0 lm-sensors (vitals)</li>
         <li>build-essential</li>
         <li>curl</li>
