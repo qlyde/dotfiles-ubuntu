@@ -4,17 +4,17 @@
 
 * **DE:** GNOME 42 (default status bar, file manager, application launcher, gtk/icons)
   * *Extensions:*
-    * Alphabetical App Grid
+    * **ArcMenu** - AppGrid replacement, like a start menu (Super binded to ArcMenu, Super+Space binded to app search)
     * **Dash to Panel** - Moves dock to panel/status bar, highly configurable
-    * Favourites in AppGrid
     * Internet Radio - Listen to the radio via the status bar
     * Net speed Simplified - For monitoring internet download/upload speeds
-    * No activities button - Disable Activities button in status bar
     * OpenWeather - For weather information
-    * Places Status Indicator - For quick access to user directories
     * Refresh Wifi Connections - For a refresh button when searching for Wi-Fi networks
     * **Tiling Assistant** - For better/configurable snap assist
-    * Vitals - For monitoring system vitals (load, mem, etc.) 
+    * Vitals - For monitoring system vitals (load, mem, etc.)
+    * **Note:** App Grid and Activities can still be used with Super+A and Super+S keys
+      * Alphabetical App Grid - Sorts App Grid alphabetically
+      * Favourites in AppGrid - Keeps favourited applications in AppGrid (removed in GNOME 40?)
 * **Terminal Emulator:** alacritty
   * *[Theme](https://github.com/eendroroy/alacritty-theme):* gruvbox_dark
 * **Shell:** zsh (Oh My Zsh)
