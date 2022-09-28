@@ -37,6 +37,7 @@
         <li>micro</li>
         <li>neofetch</li>
         <li>python3-pip</li>
+        <li>stress</li>
         <li>tree</li>
         <li>zsh</li>
       </ul>
