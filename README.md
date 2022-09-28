@@ -31,6 +31,7 @@
         <li>gir1.2-gtop-2.0 lm-sensors (vitals)</li>
         <li>build-essential</li>
         <li>curl</li>
+        <li>dconf-editor</li>
         <li>git</li>
         <li>gnome-shell-extension-manager</li>
         <li>gnome-tweaks</li>
