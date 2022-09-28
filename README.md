@@ -7,8 +7,8 @@
     * Alphabetical App Grid
     * **Dash to Panel** - Moves dock to panel/status bar, highly configurable
     * Favourites in AppGrid
-    * Internet Radio - Listen to the Radio via the status bar
-    * Net speed Simplified - For internet download/upload speeds
+    * Internet Radio - Listen to the radio via the status bar
+    * Net speed Simplified - For monitoring internet download/upload speeds
     * No activities button - Disable Activities button in status bar
     * OpenWeather - For weather information
     * Places Status Indicator - For quick access to user directories
