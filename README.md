@@ -36,6 +36,7 @@
         <li>htop</li>
         <li>micro</li>
         <li>neofetch</li>
+        <li>polybar</li>
         <li>python3-pip</li>
         <li>stress</li>
         <li>tree</li>
