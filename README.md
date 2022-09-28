@@ -2,13 +2,10 @@
 
 ## Ubuntu / GNOME
 
-* **DE:** GNOME 42
+* **DE:** GNOME 42 (default status bar, file manager, application launcher, gtk/icons)
   * *Extensions:*
     * [Favourites in AppGrid](https://gitlab.gnome.org/harshadgavali/favourites-in-appgrid/)
     * [Alphabetical App Grid](https://github.com/stuarthayhurst/alphabetical-grid-extension)
-* **Status Bar:** TODO
-* **GTK:** Yaru
-* **Icons:** Yaru
 * **Terminal Emulator:** alacritty
   * *[Theme](https://github.com/eendroroy/alacritty-theme):* gruvbox_dark
 * **Shell:** zsh (Oh My Zsh)
@@ -16,8 +13,6 @@
   * *Plugins:*
     * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
     * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-* **Application Launcher:** TODO
-* **File Manager:** nautilus
 <details>
   <summary><b>Packages:</b></summary>
   <ul>
