@@ -3,15 +3,19 @@
 ## Ubuntu / GNOME
 
 * **DE:** GNOME 42
-  * Extensions:
-    * TODO
+  * *Extensions:*
+    * [Favourites in AppGrid](https://gitlab.gnome.org/harshadgavali/favourites-in-appgrid/)
+    * [Alphabetical App Grid](https://github.com/stuarthayhurst/alphabetical-grid-extension)
 * **Status Bar:** TODO
 * **GTK:** Yaru
 * **Icons:** Yaru
 * **Terminal Emulator:** alacritty
-  * [Theme](https://github.com/eendroroy/alacritty-theme): gruvbox_dark
+  * *[Theme](https://github.com/eendroroy/alacritty-theme):* gruvbox_dark
 * **Shell:** zsh (Oh My Zsh)
-  * Theme: [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+  * *Theme:* [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+  * *Plugins:*
+    * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+    * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 * **Application Launcher:** TODO
 * **File Manager:** nautilus
 <details>
