@@ -4,16 +4,17 @@
 
 * **DE:** GNOME 42 (default status bar, file manager, application launcher, gtk/icons)
   * *Extensions:*
-    * [Alphabetical App Grid](https://github.com/stuarthayhurst/alphabetical-grid-extension)
-    * Applications Menu
-    * [Favourites in AppGrid](https://gitlab.gnome.org/harshadgavali/favourites-in-appgrid/)
-    * Internet Radio
-    * Net speed Simplified
-    * No activities button
-    * OpenWeather
-    * Places Status Indicator
-    * Refresh Wifi Connections
-    * Vitals
+    * Alphabetical App Grid
+    * **Dash to Panel** - Moves dock to panel/status bar, highly configurable
+    * Favourites in AppGrid
+    * Internet Radio - Listen to the Radio via the status bar
+    * Net speed Simplified - For internet download/upload speeds
+    * No activities button - Disable Activities button in status bar
+    * OpenWeather - For weather information
+    * Places Status Indicator - For quick access to user directories
+    * Refresh Wifi Connections - For a refresh button when searching for Wi-Fi networks
+    * **Tiling Assistant** - For better/configurable snap assist
+    * Vitals - For monitoring system vitals (load, mem, etc.) 
 * **Terminal Emulator:** alacritty
   * *[Theme](https://github.com/eendroroy/alacritty-theme):* gruvbox_dark
 * **Shell:** zsh (Oh My Zsh)
