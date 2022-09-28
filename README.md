@@ -2,9 +2,9 @@
 
 ## Ubuntu / GNOME
 
-* **DE:** GNOME 42 (default status bar, file manager, application launcher, gtk/icons)
+* **DE:** GNOME 42
   * *Extensions:*
-    * **ArcMenu** - AppGrid replacement, like a start menu (Super binded to ArcMenu, Super+Space binded to app search)
+    * **ArcMenu** - App Grid replacement, like a start menu (Super binded to ArcMenu, Super+Space binded to app search)
     * **Dash to Panel** - Moves dock to panel/status bar, highly configurable
     * Internet Radio - Listen to the radio via the status bar
     * Net speed Simplified - For monitoring internet download/upload speeds
@@ -22,6 +22,10 @@
   * *Plugins:*
     * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
     * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+* **Files:** nautilus (default)
+* **Bar:** GNOME extensions - Dash to Panel, ...
+* **Applications:** GNOME extensions - ArcMenu
+* **GTK/Icons:** Yaru-dark/Yaru (default)
 <details>
   <summary><b>Packages:</b></summary>
   <ul>
