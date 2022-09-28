@@ -28,6 +28,7 @@
         <li>curl</li>
         <li>git</li>
         <li>gnome-shell-extension-manager</li>
+        <li>gnome-tweaks</li>
         <li>google-chrome-stable</li>
         <li>gparted</li>
         <li>grep</li>
