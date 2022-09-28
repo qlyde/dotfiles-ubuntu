@@ -4,8 +4,16 @@
 
 * **DE:** GNOME 42 (default status bar, file manager, application launcher, gtk/icons)
   * *Extensions:*
-    * [Favourites in AppGrid](https://gitlab.gnome.org/harshadgavali/favourites-in-appgrid/)
     * [Alphabetical App Grid](https://github.com/stuarthayhurst/alphabetical-grid-extension)
+    * Applications Menu
+    * [Favourites in AppGrid](https://gitlab.gnome.org/harshadgavali/favourites-in-appgrid/)
+    * Net speed Simplified
+    * No activities button
+    * OpenWeather
+    * Places Status Indicator
+    * Refresh Wifi Connections
+    * Simple System Monitor
+    * Vitals
 * **Terminal Emulator:** alacritty
   * *[Theme](https://github.com/eendroroy/alacritty-theme):* gruvbox_dark
 * **Shell:** zsh (Oh My Zsh)
