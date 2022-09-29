@@ -37,12 +37,13 @@
         <li>gir1.2-gst-plugins-bad-1.0 gir1.2-gst-plugins-base-1.0 gstreamer1.0-plugins-ugly gstreamer1.0-plugins-bad (Internet Radio deps)</li>
         <li>gir1.2-gtop-2.0 lm-sensors (vitals)</li>
         <li>build-essential</li>
+        <li>code (VSCode, deb from web)</li>
         <li>curl</li>
         <li>dconf-editor</li>
         <li>git</li>
         <li>gnome-shell-extension-manager</li>
         <li>gnome-tweaks</li>
-        <li>google-chrome-stable</li>
+        <li>google-chrome-stable (deb from web)</li>
         <li>gparted</li>
         <li>grep</li>
         <li>gzip</li>
@@ -53,6 +54,10 @@
         <li>stress</li>
         <li>tree</li>
         <li>zsh</li>
+      </ul>
+    <li></li>
+      <ul>
+        <li></li>
       </ul>
     <li>pip (<code>pip list --user</code>)</li>
       <ul>
