@@ -25,7 +25,7 @@
 * **Files:** nautilus (default)
 * **Bar:** GNOME extensions - Dash to Panel, ...
 * **Applications:** GNOME extensions - ArcMenu
-* **GTK/Icons:** Yaru-dark/Yaru (default)
+* **GTK/Icons:** Yaru-blue-dark/Yaru-blue (default)
 <details>
   <summary><b>Packages:</b></summary>
   <ul>
