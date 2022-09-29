@@ -40,6 +40,7 @@
         <li>code (VSCode, deb from web)</li>
         <li>curl</li>
         <li>dconf-editor</li>
+        <li>discord (deb from web)</li>
         <li>git</li>
         <li>gnome-shell-extension-manager</li>
         <li>gnome-tweaks</li>
