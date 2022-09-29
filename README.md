@@ -63,7 +63,7 @@
       <ul>
         <li>Pygments (for colorize omz plugin)</li>
       </ul>
-    <li>git</li>
+    <li>source/git</li>
       <ul>
         <li>alacritty</li>
         <li>polybar</li>
