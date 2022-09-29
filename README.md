@@ -56,10 +56,6 @@
         <li>tree</li>
         <li>zsh</li>
       </ul>
-    <li></li>
-      <ul>
-        <li></li>
-      </ul>
     <li>pip (<code>pip list --user</code>)</li>
       <ul>
         <li>Pygments (for colorize omz plugin)</li>
