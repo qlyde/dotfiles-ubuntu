@@ -51,6 +51,7 @@
         <li>micro</li>
         <li>neofetch</li>
         <li>python3-pip</li>
+        <li>spotify-client (spotify repo + gpg key)</li>
         <li>stress</li>
         <li>tree</li>
         <li>zsh</li>
