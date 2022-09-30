@@ -8,7 +8,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
 
 ## Ubuntu / GNOME
 
-* **DE:** GNOME 42
+* **DE:** GNOME 42.4
   * *Extensions:*
     * **ArcMenu** - App Grid replacement, like a start menu (Super binded to ArcMenu, Super+Space binded to app search)
     * Blur my Shell
