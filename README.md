@@ -1,5 +1,9 @@
 # dotfiles
 
+I installed Ubuntu 22.04 onto this partition in late September so I'm still early on in configuring my workspace but here is me documenting it a long the way. I am doing this partially in case I get a new machine and want to port over my setup.
+
+Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ubuntu 22.04 (new)
+
 ![Desktop](Desktop.png)
 
 ## Ubuntu / GNOME
