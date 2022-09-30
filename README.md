@@ -5,12 +5,14 @@
 * **DE:** GNOME 42
   * *Extensions:*
     * **ArcMenu** - App Grid replacement, like a start menu (Super binded to ArcMenu, Super+Space binded to app search)
+    * Blur my Shell
     * **Dash to Panel** - Moves dock to panel/status bar, highly configurable
     * Internet Radio - Listen to the radio via the status bar
     * Net speed Simplified - For monitoring internet download/upload speeds
     * OpenWeather - For weather information
     * Refresh Wifi Connections - For a refresh button when searching for Wi-Fi networks
     * **Tiling Assistant** - For better/configurable snap assist
+    * Todo.txt - For a simple to-do list within the panel
     * Vitals - For monitoring system vitals (load, mem, etc.)
     * **Note:** App Grid and Activities can still be used with Super+A and Super+S keys
       * Alphabetical App Grid - Sorts App Grid alphabetically
@@ -23,8 +25,8 @@
     * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
     * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 * **Files:** nautilus (default)
-* **Bar:** GNOME extensions - Dash to Panel, ...
-* **Applications:** GNOME extensions - ArcMenu
+* **Bar:** GNOME - Dash to Panel, ...
+* **Applications:** GNOME - ArcMenu
 * **GTK/Icons:** Yaru-blue-dark/Yaru-blue (default)
 <details>
   <summary><b>Packages:</b></summary>
@@ -54,6 +56,7 @@
         <li>python3-pip</li>
         <li>spotify-client (spotify repo + gpg key)</li>
         <li>stress</li>
+        <li>tmux</li>
         <li>tree</li>
         <li>zsh</li>
       </ul>
