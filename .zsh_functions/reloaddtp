@@ -1,0 +1,13 @@
+PANEL="dash-to-panel@jderose9.github.com"
+
+reload() {
+    extension="$1"
+
+    extensions=$( gsettings get org.gnome.shell enabled-extensions )
+    extensions_without=$( sed -r "s/'$extension'//;s/\[, /[/;s/, , /, /;s/, \]/]/" <<< "$extensions" )
+
+    gsettings set org.gnome.shell enabled-extensions "$extensions_without"
+    gsettings set org.gnome.shell enabled-extensions "$extensions"
+}
+
+reload "$PANEL"

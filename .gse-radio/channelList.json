@@ -1,0 +1,29 @@
+{ "channels":[
+	{
+	"id": "92de764b-0038-44ed-8dbe-6aac903a10d5",
+	"name": "WSFM 101.7 Sydney",
+	"address": "https://ais-arn.streamguys1.com/au_002/playlist.m3u8",
+	"favourite": true,
+	"encoding": false
+},	{
+	"id": "0106b973-e00c-451e-b995-7773d05c8a9f",
+	"name": "Nova 96.9",
+	"address": "https://21363.live.streamtheworld.com:443/NOVA_969_AAC48.aac",
+	"favourite": true,
+	"encoding": false
+},	{
+	"id": "6408f5a2-6cfa-44f6-bd65-60536716d1c8",
+	"name": "KIIS 101.1",
+	"address": "https://ais-arn.streamguys1.com/au_001_icy",
+	"favourite": true,
+	"encoding": false
+}
+],
+
+  "lastplayed":{
+	"id": "92de764b-0038-44ed-8dbe-6aac903a10d5",
+	"name": "WSFM 101.7 Sydney",
+	"address": "https://ais-arn.streamguys1.com/au_002/playlist.m3u8",
+	"encoding": false
+}
+}
