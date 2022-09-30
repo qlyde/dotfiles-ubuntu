@@ -8,21 +8,21 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
 
 ## Ubuntu / GNOME
 
-- **DE:** GNOME 42
+- **DE:** GNOME 42.4
   - Extensions:
-    - **ArcMenu** - App Grid replacement, start menu, highly configurable (`Super` binded to ArcMenu, `Super+Space` binded to app search menu)
+    - **ArcMenu** - App Grid replacement, "start menu" app launcher, highly configurable (`Super` binded to ArcMenu, `Super+Space` binded to app search menu)
     - Blur my Shell
     - **Dash to Panel** - Moves dash to panel, highly configurable
     - Internet Radio - Listen to the radio via the panel
     - Net speed Simplified - For monitoring internet download/upload speeds
     - OpenWeather - For weather information
     - Refresh Wifi Connections - For a refresh button when searching for Wi-Fi networks
-    - **Tiling Assistant** - For better/configurable snap assist
+    - **Tiling Assistant** - For better/configurable snap assist and window tiling
     - Todo.txt - For a simple to-do list within the panel
     - Vitals - For monitoring system vitals (load, mem, etc.)
-  - **Note:** App Grid and Activities can still be used with `Super+A` and `Super+S` keys
-    - Alphabetical App Grid - Sorts App Grid alphabetically
-    - Favourites in AppGrid - Keeps favourited applications in AppGrid (removed in GNOME 3.38)
+  - **Note:** App Grid and Activities can still be used with the `Super+A` and `Super+S` keys respectively
+    - Alphabetical App Grid - Sorts App Grid alphabetically (removed in GNOME 3.38)
+    - Favourites in AppGrid - Keeps favourited applications in AppGrid (removed in GNOME 40)
 - **Terminal Emulator:** alacritty
   - [Theme](https://github.com/eendroroy/alacritty-theme): gruvbox_dark
 - **Shell:** zsh (Oh My Zsh)
