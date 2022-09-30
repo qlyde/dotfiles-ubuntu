@@ -134,4 +134,3 @@ autoload -U $fpath[1]/*(.:t)
 # keybinds
 ###################################################################
 bindkey '^H' backward-kill-word
-export WINIT_UNIX_BACKEND=x11
