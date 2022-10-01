@@ -14,6 +14,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
     - Application Volume Mixer - Control volume per-application
     - **ArcMenu** - Application menu, highly configurable (`Super` binded to ArcMenu, `Super+Space` binded to app runner menu)
     - Blur my Shell
+    - Clipboard Indicator - Caches clipboard history in `~/.cache/clipboard-indicator@tudmotu.com/registry.txt`, accessible in top panel
     - **Dash to Panel** - Moves dash to panel, highly configurable
     - Internet Radio - Listen to the radio via the panel
     - Net speed Simplified - For monitoring internet download/upload speeds
