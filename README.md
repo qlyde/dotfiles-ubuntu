@@ -18,7 +18,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
     - OpenWeather - For weather information
     - Refresh Wifi Connections - For a refresh button when searching for Wi-Fi networks
     - **Tiling Assistant** - For better/configurable snap assist and window tiling
-    - Todo.txt - For a simple to-do list within the panel
+    - **User Themes**
     - Vitals - For monitoring system vitals (load, mem, etc.)
   - **Note:** App Grid and Activities can still be used with the `Super+A` and `Super+S` keys respectively
     - Alphabetical App Grid - Sorts App Grid alphabetically (removed in GNOME 3.38)
@@ -34,7 +34,11 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
 - **Files:** nautilus (default)
 - **Bar:** GNOME - Dash to Panel, etc.
 - **Applications:** GNOME - ArcMenu
-- **GTK/Icons:** Yaru-blue-dark/Yaru-blue (default)
+- **GTK Theme:** Gruvbox-Dark-B
+  - For themes to work for both GTK3 and GTK4 applications in GNOME 42, we need both `~/.themes/` and `~/.config/gtk-4.0/gtk.css`.
+  - These have been checked in. By default the theme messes up Dash to Panel, so I had to modify `~/.themes/Gruvbox-Dark-B/gnome-shell/gnome-shell.css` to disable some panel styling.
+- **Icons:** Yaru-dark (default)
+- **Wallpaper:** [gruvbox11](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme/blob/master/wallpapers/gruvbox11.png)
 
 <details>
   <summary><b>Packages:</b></summary>
