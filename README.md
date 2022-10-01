@@ -4,13 +4,14 @@ I installed Ubuntu 22.04 onto this partition in late September so I'm still earl
 
 Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ubuntu 22.04 (new).
 
-![Desktop](Desktop.png)
+![Desktop1](Desktop1.png)
+![Desktop2](Desktop2.png)
 
 ## Ubuntu / GNOME
 
 - **DE:** GNOME 42.4
   - Extensions:
-    - **ArcMenu** - App Grid replacement, "start menu" app launcher, highly configurable (`Super` binded to ArcMenu, `Super+Space` binded to app search menu)
+    - **ArcMenu** - Application menu, highly configurable (`Super` binded to ArcMenu, `Super+Space` binded to app runner menu)
     - Blur my Shell
     - **Dash to Panel** - Moves dash to panel, highly configurable
     - Internet Radio - Listen to the radio via the panel
@@ -22,7 +23,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
     - Vitals - For monitoring system vitals (load, mem, etc.)
   - **Note:** App Grid and Activities can still be used with the `Super+A` and `Super+S` keys respectively
     - Alphabetical App Grid - Sorts App Grid alphabetically (removed in GNOME 3.38)
-    - Favourites in AppGrid - Keeps favourited applications in AppGrid (removed in GNOME 40)
+    - Favourites in AppGrid - Keeps favourited applications in App Grid (removed in GNOME 40)
   - **Note:** Disable Ubuntu AppIndicators and Ubuntu Dock (default System Extensions)
 - **Terminal Emulator:** alacritty
   - [Theme](https://github.com/eendroroy/alacritty-theme): gruvbox_dark
@@ -33,10 +34,10 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
     - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - **Files:** nautilus (default)
 - **Bar:** GNOME - Dash to Panel, etc.
-- **Applications:** GNOME - ArcMenu
+- **Applications:** GNOME - ArcMenu, etc.
 - **GTK Theme:** [Gruvbox-Dark-B](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme)
   - For themes to work for both GTK3 and GTK4 applications in GNOME 42, we need both `~/.themes/` and `~/.config/gtk-4.0/gtk.css`.
-  - These have been checked in. By default the theme messes up Dash to Panel, so I had to modify `~/.themes/Gruvbox-Dark-B/gnome-shell/gnome-shell.css` to disable some panel styling.
+  - By default the theme messes up Dash to Panel, so I had to modify `~/.themes/Gruvbox-Dark-B/gnome-shell/gnome-shell.css` to disable some panel styling. These have been checked in.
 - **Icons:** Yaru-dark (default)
 - **Wallpaper:** [gruvbox11](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme/blob/master/wallpapers/gruvbox11.png)
 
