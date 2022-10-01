@@ -32,13 +32,13 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
   - Plugins:
     - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
     - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-- **Files:** nautilus (default)
+- **Files:** nautilus (default, I don't use Files that much)
 - **Bar:** GNOME - Dash to Panel, etc.
 - **Applications:** GNOME - ArcMenu, etc.
 - **GTK Theme:** [Gruvbox-Dark-B](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme)
   - For themes to work for both GTK3 and GTK4 applications in GNOME 42, we need both `~/.themes/` and `~/.config/gtk-4.0/gtk.css`.
   - By default the theme messes up Dash to Panel, so I had to modify `~/.themes/Gruvbox-Dark-B/gnome-shell/gnome-shell.css` to disable some panel styling. These have been checked in.
-- **Icons:** Yaru-dark (default)
+- **Icons:** Yaru-dark (default, I like the default icons)
 - **Wallpaper:** [gruvbox11](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme/blob/master/wallpapers/gruvbox11.png)
 
 <details>
