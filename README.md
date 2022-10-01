@@ -11,6 +11,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
 
 - **DE:** GNOME 42.4
   - Extensions:
+    - Application Volume Mixer - Control volume per-application
     - **ArcMenu** - Application menu, highly configurable (`Super` binded to ArcMenu, `Super+Space` binded to app runner menu)
     - Blur my Shell
     - **Dash to Panel** - Moves dash to panel, highly configurable
