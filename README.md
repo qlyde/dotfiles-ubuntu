@@ -23,6 +23,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
   - **Note:** App Grid and Activities can still be used with the `Super+A` and `Super+S` keys respectively
     - Alphabetical App Grid - Sorts App Grid alphabetically (removed in GNOME 3.38)
     - Favourites in AppGrid - Keeps favourited applications in AppGrid (removed in GNOME 40)
+  - **Note:** Disable Ubuntu AppIndicators and Ubuntu Dock (default System Extensions)
 - **Terminal Emulator:** alacritty
   - [Theme](https://github.com/eendroroy/alacritty-theme): gruvbox_dark
 - **Shell:** zsh (Oh My Zsh)
