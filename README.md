@@ -34,7 +34,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
 - **Files:** nautilus (default)
 - **Bar:** GNOME - Dash to Panel, etc.
 - **Applications:** GNOME - ArcMenu
-- **GTK Theme:** Gruvbox-Dark-B
+- **GTK Theme:** [Gruvbox-Dark-B](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme)
   - For themes to work for both GTK3 and GTK4 applications in GNOME 42, we need both `~/.themes/` and `~/.config/gtk-4.0/gtk.css`.
   - These have been checked in. By default the theme messes up Dash to Panel, so I had to modify `~/.themes/Gruvbox-Dark-B/gnome-shell/gnome-shell.css` to disable some panel styling.
 - **Icons:** Yaru-dark (default)
