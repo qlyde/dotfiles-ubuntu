@@ -70,6 +70,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
         <b>(Internet Radio dependencies)</b>
       </li>
       <li>gir1.2-gtop-2.0 lm-sensors <b>(Vitals dependencies)</b></li>
+      <li>tigervnc-viewer tigervnc-common <b>(TigerVNC)</b></li>
       <li>build-essential</li>
       <li>code (VSCode, .deb from web)</li>
       <li>curl</li>
