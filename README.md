@@ -79,7 +79,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
       <li>git</li>
       <li>gnome-shell-extension-manager (for installing GNOME extensions)</li>
       <li>gnome-tweaks (for tweaking GNOME)</li>
-      <li>google-chrome-stable (Google Chrome, deb from web)</li>
+      <li>google-chrome-stable (Google Chrome, .deb from web)</li>
       <li>gparted (GNOME partition editor)</li>
       <li>grep</li>
       <li>gzip</li>
@@ -92,6 +92,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
       <li>tmux (terminal multiplexer)</li>
       <li>tree (list directories in a tree format)</li>
       <li>tty-clock (a terminal clock)</li>
+      <li>zoom (Zoom, .deb from web)</li>
       <li>zsh</li>
     </ul>
     <li>pip (<code>pip list --user</code>)</li>
