@@ -115,3 +115,4 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
 ## More
 
 * [Cleaning up `dconf` database](https://askubuntu.com/questions/45535/how-do-i-clean-up-my-dconf-database)
+* `gedit` highlight mode was unreadable and I had to add a custom colour scheme `~/.local/share/gedit/styles/gruvbox_dark.xml`
