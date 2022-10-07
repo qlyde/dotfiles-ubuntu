@@ -72,23 +72,34 @@ CASE_SENSITIVE="true"
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
+# zsh-nvm: lazy load nvm to remove shell startup lag
+export NVM_LAZY_LOAD=true
+
+# Create a cache folder if it isn't exists
+if [ ! -d "$HOME/.cache/zsh" ]; then
+    mkdir -p $HOME/.cache/zsh
+fi
+
+# Define a custom file for compdump
+export ZSH_COMPDUMP="$HOME/.cache/zsh/zcompdump-$HOST-$ZSH_VERSION"
+
 # Which plugins would you like to load?
 # Standard plugins can be found in $ZSH/plugins/
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
+	colored-man-pages
+	colorize
+	dirhistory
+	extract
 	git
 	gitignore
-	sudo
-	colorize
-	colored-man-pages
-	dirhistory
-	zsh-autosuggestions
-	zsh-syntax-highlighting
-	extract
 	jsontools
-#	nvm
+	sudo
+	zsh-autosuggestions
+	zsh-nvm
+	zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh

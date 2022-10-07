@@ -34,6 +34,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
   - Plugins:
     - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
     - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+    - [zsh-nvm](https://github.com/lukechilds/zsh-nvm)
 - **Files:** nautilus (default, I don't use Files that much)
 - **Bar:** GNOME - Dash to Panel, etc.
 - **Applications:** GNOME - ArcMenu, etc.
@@ -93,6 +94,9 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
       <li>tmux (terminal multiplexer)</li>
       <li>tree (list directories in a tree format)</li>
       <li>tty-clock (a terminal clock)</li>
+      <li>vim</li>
+      <li>virtualbox</li>
+      <li>vlc</li>
       <li>zoom (Zoom, .deb from web)</li>
       <li>zsh</li>
     </ul>
