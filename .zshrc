@@ -75,6 +75,9 @@ CASE_SENSITIVE="true"
 # zsh-nvm: lazy load nvm to remove shell startup lag
 export NVM_LAZY_LOAD=true
 
+# nvm: lazy load
+NVM_LAZY=1
+
 # Create a cache folder if it isn't exists
 if [ ! -d "$HOME/.cache/zsh" ]; then
     mkdir -p $HOME/.cache/zsh
@@ -96,6 +99,7 @@ plugins=(
 	git
 	gitignore
 	jsontools
+	nvm
 	sudo
 	zsh-autosuggestions
 	zsh-nvm
