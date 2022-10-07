@@ -87,6 +87,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
       <li>micro (terminal-based text editor)</li>
       <li>neofetch (for system info)</li>
       <li>python3-pip</li>
+      <li>slack-desktop (Slack, .deb from web)</li>
       <li>spotify-client (Spotify, from Spotify repository)</li>
       <li>stress (for imposing load on system)</li>
       <li>tmux (terminal multiplexer)</li>
