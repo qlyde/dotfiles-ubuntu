@@ -97,6 +97,7 @@ Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ub
       <li>vim</li>
       <li>virtualbox</li>
       <li>vlc</li>
+      <li>wps-office (WPS Office, .deb from web</li>
       <li>zoom (Zoom, .deb from web)</li>
       <li>zsh</li>
     </ul>
