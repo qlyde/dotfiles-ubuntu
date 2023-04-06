@@ -4,7 +4,7 @@ I installed Ubuntu 22.04 onto this partition in late September so I'm still earl
 
 Currently I run a triple-boot X1 Carbon 7: Windows 10, Ubuntu 22.04 (old) and Ubuntu 22.04 (new).
 
-*UPDATE:* I am now running a MacBook Pro M1 Max
+**UPDATE*:* I am now running a MacBook Pro M1 Max
 
 ![Desktop1](Desktop1.png)
 ![Desktop2](Desktop2.png)
